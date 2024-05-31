@@ -1,6 +1,6 @@
 # Fake News Detection Model with Flask Web App
 
-![Fake News Detection]([https://example.com/path/to/your/logo.png](https://ieee-dataport.org/sites/default/files/WhatsApp%20Image%202020-08-17%20at%2010.32.28%20PM_1.jpeg))
+![Fake News Detection]([https://ieee-dataport.org/sites/default/files/WhatsApp%20Image%202020-08-17%20at%2010.32.28%20PM_1.jpeg])
 
 ## Table of Contents
 - [Introduction](#introduction)
